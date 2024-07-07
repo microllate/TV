@@ -1,5 +1,6 @@
 广东频道,#genre#
 广东卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=47694213a1d9bbfd24ad8f58a5883d41&txTime=19071e46060
 深圳卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8
 央视频道,#genre#
 CCTV-3,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/2300.m3u8
@@ -15,8 +16,8 @@ CCTV-17,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/chann
 广东卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 北京卫视,http://222.240.82.92:9901/tsfile/live/0122_1.m3u8
-湖北卫视,http://115.149.139.141:10001/tsfile/live/1027_1.m3u8
 湖北卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel21/1300.m3u8
+湖北卫视,http://115.149.139.141:10001/tsfile/live/1027_1.m3u8
 安徽卫视,http://115.149.139.141:10001/tsfile/live/1025_1.m3u8
 东方卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/1300.m3u8
 甘肃卫视,http://222.240.82.92:9901/tsfile/live/0141_1.m3u8
