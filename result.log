@@ -1,11 +1,7 @@
 Name: 广东新闻, URL: https://skype.serv00.net/itouch.php?id=gdxw$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 大湾区卫视, URL: https://skype.serv00.net/itouch.php?id=nfws$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
-Name: 江门综合, URL: http://125.92.165.164:8686/rtp/239.77.0.201:5146$1920x1080, Date: 2024-09-19, Resolution: 1920x1080, Response Time: 375 ms
-Name: 江门侨乡生活, URL: http://125.92.165.164:8686/rtp/239.77.0.202:5146$1920x1080, Date: 2024-09-19, Resolution: 1920x1080, Response Time: 375 ms
 Name: 新会综合, URL: https://skype.serv00.net/itouch.php?id=xhzh$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 鹤山综合, URL: https://skype.serv00.net/itouch.php?id=hszh$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
-Name: CCTV-2, URL: http://125.92.165.164:8686/rtp/239.253.43.17:5146$1920x1080, Date: 2024-09-19, Resolution: 1920x1080, Response Time: 0 ms
-Name: 北京卫视, URL: http://125.92.165.164:8686/rtp/239.77.0.91:5146$1920x1080, Date: 2024-09-19, Resolution: 1920x1080, Response Time: 375 ms
 Name: 东方卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 东南卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265033/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 甘肃卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
@@ -13,7 +9,9 @@ Name: 河北卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040016
 Name: 河南卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 江西卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265032/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 青海卫视, URL: http://113.67.181.144:10000/rtp/239.77.0.71:5146$720x576, Date: None, Resolution: 720x576, Response Time: 375 ms
+Name: 山西卫视, URL: http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759$1280x720, Date: None, Resolution: 1280x720, Response Time: 350 ms
 Name: 四川卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
+Name: 翡翠台, URL: http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 星河台, URL: https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8$1280x720, Date: None, Resolution: 1280x720, Response Time: 375 ms
 Name: 星河台, URL: https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8$1280x720, Date: None, Resolution: 1280x720, Response Time: 375 ms
 Name: 凤凰中文, URL: http://pi.0472.org/tv/cbn.php?id=xfjcHD$1280x720, Date: None, Resolution: 1280x720, Response Time: 375 ms
