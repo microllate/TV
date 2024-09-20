@@ -11,11 +11,9 @@
 河北卫视,http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3$1920x1080
 河南卫视,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3$1920x1080
 江西卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265032/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=3$1920x1080
-青海卫视,http://113.67.181.144:10000/rtp/239.77.0.71:5146$720x576
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759$1280x720
 四川卫视,http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3$1920x1080
 港·澳·台,#genre#
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8$1920x1080
 星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8$1280x720
 凤凰中文,http://pi.0472.org/tv/cbn.php?id=xfjcHD$1280x720
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$1920x1080
