@@ -8,8 +8,7 @@ CCTV-1,http://61.143.227.162:10000/rtp/239.77.0.14:5146$720x576
 东方卫视,http://gslbservzqhsw.itv.cmvideo.cn/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3$1920x1080
 东南卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265033/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3$1920x1080
 甘肃卫视,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3$1920x1080
-内蒙古卫视,http://218.13.170.98:9901/tsfile/live/0109_1.m3u8$720x576
-青海卫视,http://116.28.124.202:8520/rtp/239.77.1.70:5146$720x576
+宁夏卫视,http://218.13.170.98:9901/tsfile/live/0112_1.m3u8$720x576
 港·澳·台,#genre#
 凤凰中文,http://pi.0472.org/tv/cbn.php?id=xfjcHD$1280x720
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$1920x1080
